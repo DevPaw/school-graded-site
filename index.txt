@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>iPhone 15. So Keen.</title>
+</head>
+<body>
+    <h1>iPhone 15</h1>
+    <h2>The iPhone 15 is your new superpower, with its improved A17 Bionic 5nm chip, its bright HDR display which goes up to 2000 nits and a new camera set that just keeps getting better.</h2>
+
+    <h2>The iPhone 15 is powered by the A17 Bionic, an efficient chip designed to handle all your workloads with ease while still maintaining unparalleled battery power.
+    The display now has a new pill-shaped cutout at the top, which is what we like to call as the Dynamic Island. Not only does it house the front camera, the earpiece and sensors, but it can also double as an indicator for alerts like phone calls and playing music with fluid animations and seamless multitasking capabilities.
+    The new camera set has increased resolution for all three cameras and with iOS 17, the software enhances photos to just the right degree so that you can take perfect photos in any lighting without having to worry about an over-edited feel. The cameras now have more space to move around, so that you can capture impossibly stable videos with the new action mode in the camera.</h2>
+    <h2>The iPhone 15 also has its model variants as well as color variants. The iPhone 15, The iPhone 15 Mini and the iPhone 15 Plus, all available in shades of Black, Blue, Green, Purple, Silver and Product Red. Moreover, there is the iPhone 15 Pro and the iPhone 15 Pro Max, available in much darker shades of Black, Blue and Purple.</h2>
+    <h2>We here at Apple did what we could. But the more important question is, what would you like to do on this new iPhone?
+    Price: iPhone 15 - $899
+           iPhone 15 Mini - $699
+           iPhone 15 Plus - $949
+           iPhone 15 Pro - $999
+           iPhone 15 Pro Max - $1099</h2>
+
+    <img src="https://imageio.forbes.com/specials-images/imageserve/631c74f08079eb7d91d7038a/Apple--iPhone-14-Pro--iPhone-14-Pro-Max--new-iPhone--iPhone-14-price--iPhone-14-Pro/960x0.jpg?height=450&width=711&fit=bounds"/>
+</body>
+</html>
